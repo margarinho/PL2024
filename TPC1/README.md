@@ -1,4 +1,4 @@
-# Relatorio da Resolucao do TPC1
+# Relatório da Resolução do TPC1
 
 ## Abordagem adotada
 Para resolver este trabalho, foi pensado em um dicionário que, por modalidade,
