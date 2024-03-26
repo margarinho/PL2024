@@ -1,0 +1,31 @@
+<h1>Basic</1>
+
+<h2>Headers</2>
+
+<h1>H1</1>
+<h2>H2</2>
+<h3>H3</3>
+
+
+<h2>Emphasis</2>
+
+<i>italic</i>
+<b>bold</b>
+
+<h2>Lists</2>
+
+<h3>Ordered</3>
+
+<ol>
+	<li>First item</li>
+	<li>Second item</li>
+	<li>Third item</li>
+</ol>
+<h2>Links</2>
+
+<a href="OpenAI">https://www.openai.com</a>
+
+<h2>Images</2>
+
+<img src="Alt text" alt="http://www.coellho.com"/>
+
