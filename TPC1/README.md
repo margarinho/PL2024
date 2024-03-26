@@ -1,6 +1,6 @@
-#Relatorio da Resolucao do TPC1
+# Relatorio da Resolucao do TPC1
 
-##Abordagem adotada
+## Abordagem adotada
 Para resolver este trabalho, foi pensado em um dicionário que, por modalidade,
 organiza as linhas do dataset por faixas etárias (com intervalo de 5 anos).
 A função que dá corpo ao dicionário é a função `parse`.
@@ -16,7 +16,7 @@ dicionary = {
 }
 ```
 
-##Objectivos Cumpridos
+## Objectivos Cumpridos
 [x] Listagem das modalidades desportivas por ordem alfabetica
 [x] Percentagem de atletas aptos e os inaptos
 [x] Distribuicao de atletas por escalao etario (intervalo de 5 anos)
