@@ -17,9 +17,9 @@ dicionary = {
 ```
 
 ## Objectivos Cumpridos
-[x] Listagem das modalidades desportivas por ordem alfabetica
-[x] Percentagem de atletas aptos e os inaptos
-[x] Distribuicao de atletas por escalao etario (intervalo de 5 anos)
+- [x] Listagem das modalidades desportivas por ordem alfabetica
+- [x] Percentagem de atletas aptos e os inaptos
+- [x] Distribuicao de atletas por escalao etario (intervalo de 5 anos)
 
 ### Listagem das modalidades desportivas
 Após a execução do `parse`, esta etapa corresponde apenas a um sorted da lista das chaves do dicionário.
