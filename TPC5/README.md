@@ -21,10 +21,10 @@ O código-fonte está estruturado da seguinte forma:
 
 ## Relatório de Testes
 
-- *Teste de Inserção de Moedas*: Verifica que o saldo é atualizado corretamente após a inserção de moedas.
-- *Teste de Listagem de Produtos*: Verifica que a lista de produtos é exibida corretamente.
-- *Teste de Seleção de Produto*: Verifica que o produto é dispensado corretamente e o saldo é atualizado após a seleção de um produto.
-- *Teste de Encerramento do Programa*: Verifica que o troco é exibido corretamente ao sair do programa.
+- **Teste de Inserção de Moedas**: Verifica que o saldo é atualizado corretamente após a inserção de moedas.
+- **Teste de Listagem de Produtos**: Verifica que a lista de produtos é exibida corretamente.
+- **Teste de Seleção de Produto**: Verifica que o produto é dispensado corretamente e o saldo é atualizado após a seleção de um produto.
+- **Teste de Encerramento do Programa**: Verifica que o troco é exibido corretamente ao sair do programa.
 
 ## Conclusão
 O simulador demonstra de forma eficaz o processo de compra em uma máquina de vendas.
