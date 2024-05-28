@@ -1,8 +1,7 @@
 # Relatório da Resolução do TPC2
 
 ## Abordagem adotada
-Para resolver este trabalho, foi pensado em arranjar uma expressão regular caracteristica de cada ..... depois estas expressao 
-dao match à linha no momento a ser analisada e escreve-se no ficheiro de output.
+Planeia-se criar uma expressão regular específica para cada tipo de expressão desejada. Ao identificar uma correspondência (match) utilizando essa expressão regular, as informações extraídas são transformadas e inseridas no formato correspondente ao original. Por defeito, o conteúdo é analisado linha a linha.
 
 ## Objectivos Cumpridos
 - [x] Conversao de titulo
